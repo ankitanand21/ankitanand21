@@ -5,27 +5,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+that+scale;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG" />
 </p>
 
-<table align="center" cellspacing="10" cellpadding="0" border="0">
-<tr>
-<td align="center" bgcolor="#000000" style="border-radius:8px;">
+<p align="center">
   <a href="https://github.com/ankitanand21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</td>
-<td align="center" bgcolor="#000000">
   <a href="https://linkedin.com/in/ankitanand21" target="_blank">
-    <img src="https://img.icons8.com/color/1200/linkedin.jpg" width="26" height="26" valign="middle"/>
-    <b>&nbsp;<font color="white">LinkedIn</font></b>
+    <img src="https://img.icons8.com/color/1200/linkedin.jpg" width="26" height="26" valign="middle" style="border-radius:4px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/>
   </a>
-</td>
-<td align="center" bgcolor="#000000">
   <a href="mailto:ankitanand2106@gmail.com" target="_blank">
     <img src="https://ssl.gstatic.com/ui/v1/icons/mail/logo_loading_2x.png" width="26" height="26" valign="middle"/>
-    <b>&nbsp;<font color="white">Gmail</font></b>
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge"/>
   </a>
-</td>
-</tr>
-</table>
+</p>
 
 ### ⚡ About Me
 
@@ -42,12 +34,10 @@
 
 **Backend**
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
