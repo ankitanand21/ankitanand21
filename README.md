@@ -103,25 +103,14 @@ Vulnerability assessments, security log monitoring, and secure development stand
 
 ---
 
-### 🎯 What I'm Looking For
+### 🏅 Certifications
 
-I'm actively seeking **Software Engineer / Backend Engineer / Full-Stack (MERN)** roles where I can:
-- Design and own REST APIs end-to-end — not just consume them
-- Bring security-conscious thinking into everyday backend decisions
-- Work on systems that need to scale, not just demo well
+- **Google Cloud** — Introduction to Generative AI
+- **Coursera** — Machine Learning Specialization
+- **NPTEL** — The Joy of Computing Using Python
 
 ---
 
-### 🤝 Let's Connect
-
 <p align="center">
-  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="42" height="42" alt="GitHub"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10" width="42" height="42" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="42" height="42" alt="Gmail"/></a>
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by — always open to a conversation about backend systems, MERN stack, or interesting problems worth solving.</sub>
+  <i>📌 Open to Software Engineer / Backend Engineer / Full-Stack (MERN) roles.</i>
 </p>
