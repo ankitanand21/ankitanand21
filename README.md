@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ankitanand21"><img src="https://img.shields.io/badge/GitHub-ankitanand21-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ankitanand21"><img src="https://img.shields.io/badge/LinkedIn-ankitanand21-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankitanand2106@gmail.com"><img src="https://img.shields.io/badge/Email-ankitanand2106%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ankitanand21"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717"/></a>
+  <a href="https://linkedin.com/in/ankitanand21"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:ankitanand2106@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 </p>
 
 ---
@@ -101,6 +101,23 @@ Vulnerability assessments, security log monitoring, and secure development stand
 
 ---
 
+### 🎯 What I'm Looking For
+
+I'm actively seeking **Software Engineer / Backend Engineer / Full-Stack (MERN)** roles where I can:
+- Design and own REST APIs end-to-end — not just consume them
+- Bring security-conscious thinking into everyday backend decisions
+- Work on systems that need to scale, not just demo well
+
+---
+
+### 🤝 Let's Connect
+
 <p align="center">
-  <i>📌 Open to Software Engineer / Backend Engineer / Full-Stack (MERN) roles.</i>
+  <a href="https://github.com/ankitanand21"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717"/></a>
+  <a href="https://linkedin.com/in/ankitanand21"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:ankitanand2106@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by — always open to a conversation about backend systems, MERN stack, or interesting problems worth solving.</sub>
 </p>
