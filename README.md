@@ -1,28 +1,16 @@
-<h1 align="center">Hi, I'm Ankit Anand 👋</h1>
-<h3 align="center">Backend Engineer · MERN Stack Developer · Full-Stack Builder</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+that+scale;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:339933&height=180&section=header&text=Ankit%20Anand&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ankitanand21" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYXxLfi3hTlTRs7iXSJv9ix6epEK9icf9pMi1P92-dQ&s=10" width="20" height="20" alt="GitHub" valign="middle"/>
-    <b>&nbsp;GitHub</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10" width="20" height="20" alt="LinkedIn" valign="middle"/>
-    <b>&nbsp;LinkedIn</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ankitanand2106@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="20" height="20" alt="Gmail" valign="middle"/>
-    <b>&nbsp;Gmail</b>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+that+scale;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=181717&labelColor=white"/></a>
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white"/></a>
+  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=white"/></a>
+</p>
 
 ### ⚡ About Me
 
