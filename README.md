@@ -6,9 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ankitanand21"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717"/></a>
-  <a href="https://linkedin.com/in/ankitanand21"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="mailto:ankitanand2106@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="42" height="42" alt="GitHub"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10" width="42" height="42" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="42" height="42" alt="Gmail"/></a>
 </p>
 
 ---
@@ -113,9 +115,11 @@ I'm actively seeking **Software Engineer / Backend Engineer / Full-Stack (MERN)*
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/ankitanand21"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717"/></a>
-  <a href="https://linkedin.com/in/ankitanand21"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="mailto:ankitanand2106@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="42" height="42" alt="GitHub"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10" width="42" height="42" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="42" height="42" alt="Gmail"/></a>
 </p>
 
 <p align="center">
