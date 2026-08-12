@@ -11,10 +11,9 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-
-<a href="https://linkedin.com/in/ankitanand21" target="_blank">
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  </a>
 
   <a href="mailto:ankitanand2106@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -25,17 +24,17 @@
 
 ### ⚡ About Me
 
-* 🛠️ **Backend-focused MERN Stack Developer** — I design REST APIs, model data in MongoDB, and build the systems that power the frontend, not just consume them.
+- 🛠️ **Backend-focused MERN Stack Developer** — I design REST APIs, model data in MongoDB, and build the systems that power the frontend, not just consume them.
 
-* 🤖 Built full-stack apps with real auth (JWT + bcrypt), real-time features (WebSockets), and third-party API integration (OpenAI).
+- 🤖 Built full-stack apps with real auth (JWT + bcrypt), real-time features (WebSockets), and third-party API integration (OpenAI).
 
-* 🔐 Brought security-first thinking into backend work from my time as an Information Security Trainee at Flipkart — I build APIs that validate input and don't trust the client.
+- 🔐 Brought security-first thinking into backend work from my time as an Information Security Trainee at Flipkart — I build APIs that validate input and don't trust the client.
 
-* 🎓 B.E. in Information Science & Engineering, Nitte Meenakshi Institute of Technology, Bengaluru.
+- 🎓 B.E. in Information Science & Engineering, Nitte Meenakshi Institute of Technology, Bengaluru.
 
-* 📜 Certified in Generative AI (Google Cloud), Machine Learning (Coursera), and Python (NPTEL).
+- 📜 Certified in Generative AI (Google Cloud), Machine Learning (Coursera), and Python (NPTEL).
 
-* 🎯 **Looking for:** Software Engineer / Backend Engineer / Full-Stack (MERN) roles.
+- 🎯 **Looking for:** Software Engineer / Backend Engineer / Full-Stack (MERN) roles.
 
 ---
 
@@ -98,10 +97,10 @@
 
 Full-stack MERN app integrating the OpenAI API for real-time, context-aware conversations.
 
-* JWT auth + bcrypt password hashing
-* Role-based, protected REST routes
-* Multi-session chat history via MongoDB/Mongoose
-* Streaming UI with real-time updates
+- JWT auth + bcrypt password hashing
+- Role-based, protected REST routes
+- Multi-session chat history via MongoDB/Mongoose
+- Streaming UI with real-time updates
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `OpenAI API`
 
@@ -113,10 +112,10 @@ Full-stack MERN app integrating the OpenAI API for real-time, context-aware conv
 
 Real-time device control dashboard with live monitoring.
 
-* ⚡ 30% faster response time
-* 📈 25% increase in user engagement
-* WebSocket-powered live data sync (+40% operational efficiency)
-* Fully responsive UI across devices
+- ⚡ 30% faster response time
+- 📈 25% increase in user engagement
+- WebSocket-powered live data sync (+40% operational efficiency)
+- Fully responsive UI across devices
 
 `React.js` `Node.js` `MongoDB` `WebSocket` `Bootstrap`
 
@@ -130,11 +129,11 @@ Real-time device control dashboard with live monitoring.
 
 Alongside core MERN/backend work, I'm going through Strike's **Thunder: 100 Days of Code** track to round out system design and infra fundamentals:
 
-* **System Design & Backend Scaling:** Rate limiting, caching, database scaling & sharding, distributed caching, messaging systems, design patterns, observability
+- **System Design & Backend Scaling:** Rate limiting, caching, database scaling & sharding, distributed caching, messaging systems, design patterns, observability
 
-* **Frontend Depth:** Advanced React hooks, modern state management, performance optimization
+- **Frontend Depth:** Advanced React hooks, modern state management, performance optimization
 
-* **DevOps:** Containerization, orchestration, CI/CD, Infrastructure as Code, multi-cloud, observability, DevSecOps & SRE practices
+- **DevOps:** Containerization, orchestration, CI/CD, Infrastructure as Code, multi-cloud, observability, DevSecOps & SRE practices
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -166,9 +165,9 @@ Vulnerability assessments, security log monitoring, and secure development stand
 
 ### 🏅 Certifications
 
-* **Google Cloud** — Introduction to Generative AI
-* **Coursera** — Machine Learning Specialization
-* **NPTEL** — The Joy of Computing Using Python
+- **Google Cloud** — Introduction to Generative AI
+- **Coursera** — Machine Learning Specialization
+- **NPTEL** — The Joy of Computing Using Python
 
 ---
 
