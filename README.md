@@ -2,17 +2,13 @@
 <h3 align="center">Backend Engineer · MERN Stack Developer · Full-Stack Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitanand21&style=flat-square&color=00F7FF&label=Profile+Views"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+that+scale;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 </p>
 
 ### ⚡ About Me
@@ -113,4 +109,8 @@ Vulnerability assessments, security log monitoring, and secure development stand
 
 <p align="center">
   <i>📌 Open to Software Engineer / Backend Engineer / Full-Stack (MERN) roles.</i>
+</p>
+
+<p align="center">
+  <sub><img src="https://komarev.com/ghpvc/?username=ankitanand21&style=flat-square&color=grey&label=Profile+Views" height="18"/></sub>
 </p>
