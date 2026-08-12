@@ -6,11 +6,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="42" height="42" alt="GitHub"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10" width="42" height="42" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="42" height="42" alt="Gmail"/></a>
+  <a href="https://github.com/ankitanand21" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYXxLfi3hTlTRs7iXSJv9ix6epEK9icf9pMi1P92-dQ&s=10" width="20" height="20" alt="GitHub" valign="middle"/>
+    <b>&nbsp;GitHub</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRITsKS0PEMC132U7VtPeIHoyBqwqPMItGHEm7ZvOCg&s=10" width="20" height="20" alt="LinkedIn" valign="middle"/>
+    <b>&nbsp;LinkedIn</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ankitanand2106@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="20" height="20" alt="Gmail" valign="middle"/>
+    <b>&nbsp;Gmail</b>
+  </a>
 </p>
 
 ---
