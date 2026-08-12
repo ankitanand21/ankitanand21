@@ -3,7 +3,7 @@
 <h3 align="center">Backend Engineer · MERN Stack Developer · Full-Stack Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+that+scale;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express.js+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+that+scale;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG">
 </p>
 
 <p align="center">
