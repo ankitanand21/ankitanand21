@@ -5,11 +5,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+that+scale;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<table align="center" cellspacing="10" cellpadding="0" border="0">
+<tr>
+<td align="center" bgcolor="#000000" style="border-radius:8px;">
+  <a href="https://github.com/ankitanand21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+<td align="center" bgcolor="#000000">
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank">
+    <img src="https://img.icons8.com/color/1200/linkedin.jpg" width="26" height="26" valign="middle"/>
+    <b>&nbsp;<font color="white">LinkedIn</font></b>
+  </a>
+</td>
+<td align="center" bgcolor="#000000">
+  <a href="mailto:ankitanand2106@gmail.com" target="_blank">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/logo_loading_2x.png" width="26" height="26" valign="middle"/>
+    <b>&nbsp;<font color="white">Gmail</font></b>
+  </a>
+</td>
+</tr>
+</table>
 
 ### ⚡ About Me
 
@@ -24,19 +40,12 @@
 
 ### 🧰 Core Stack — Backend & MERN
 
-**Languages**
+**Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-**Backend**
-<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -46,11 +55,14 @@
 
 **Frontend**
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 **Databases**
 <p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
