@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ankitanand21" target="_blank">
-    <img src="https://img.icons8.com/color/1200/linkedin.jpg" width="26" height="26" valign="middle" style="border-radius:4px;"/>
+    <img src="https://img.magnific.com/premium-vector/linkedin-logo_578229-227.jpg?semt=ais_hybrid&w=740&q=80" width="20" height="20" valign="middle" style="border-radius:3px;"/>
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/>
   </a>
   <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
@@ -46,7 +46,7 @@
 
 **Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
