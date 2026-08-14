@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000140c82089100a409729e3a36&ts=496302&p=fs&cid=1&sig=b8ebb9b9915fa093913f27bef0fabab5ab228bc753d064968f1c8dea0163586e&v=0"/></a>
   <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 </p>
 
