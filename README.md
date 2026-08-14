@@ -7,10 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank">
-    <img src="https://img.magnific.com/premium-vector/linkedin-logo_578229-227.jpg?semt=ais_hybrid&w=740&q=80" width="20" height="20" valign="middle" style="border-radius:3px;"/>
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/>
-  </a>
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 </p>
 
