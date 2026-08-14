@@ -1,4 +1,12 @@
-<h1 align="center">Hi, I'm Ankit Anand 👋</h1>
+<h1 align="center">
+  Hi, I'm Ankit Anand
+  <svg width="45" height="45" viewBox="0 0 60 60" style="vertical-align: middle;">
+    <text x="30" y="45" font-size="40" text-anchor="middle">
+      👋
+      <animateTransform attributeName="transform" type="rotate" values="0 30 45;25 30 45;-15 30 45;25 30 45;-15 30 45;0 30 45" dur="0.7s" repeatCount="7" fill="freeze"/>
+    </text>
+  </svg>
+</h1>
 <h3 align="center">Backend Engineer · MERN Stack Developer · Full-Stack Builder</h3>
 
 <p align="center">
