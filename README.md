@@ -158,7 +158,7 @@ A RESTful task management backend focused on secure API design, authentication, 
 
 <td align="center" width="16.66%" valign="top">
 <img src="https://img.icons8.com/fluency/96/api.png" width="58" height="58"/><br/><br/>
-<b>REST APIs</b>
+<b>REST&nbsp;APIs</b>
 </td>
 
 <td align="center" width="16.66%" valign="top">
@@ -177,17 +177,17 @@ A RESTful task management backend focused on secure API design, authentication, 
 <tr>
 
 <td align="center" width="33.33%" valign="top">
-<img src="https://skillicons.dev/icons?i=react" width="58" height="58"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65"/><br/><br/>
 <b>React.js</b>
 </td>
 
 <td align="center" width="33.33%" valign="top">
-<img src="https://skillicons.dev/icons?i=html" width="58" height="58"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65"/><br/><br/>
 <b>HTML</b>
 </td>
 
 <td align="center" width="33.33%" valign="top">
-<img src="https://skillicons.dev/icons?i=css" width="58" height="58"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65"/><br/><br/>
 <b>CSS</b>
 </td>
 
@@ -237,17 +237,17 @@ A RESTful task management backend focused on secure API design, authentication, 
 <tr>
 
 <td align="center" width="33.33%" valign="top">
-<img src="https://skillicons.dev/icons?i=c" width="58" height="58"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=c" width="65" height="65"/><br/><br/>
 <b>C</b>
 </td>
 
 <td align="center" width="33.33%" valign="top">
-<img src="https://skillicons.dev/icons?i=cpp" width="58" height="58"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65"/><br/><br/>
 <b>C++</b>
 </td>
 
 <td align="center" width="33.33%" valign="top">
-<img src="https://skillicons.dev/icons?i=python" width="58" height="58"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65"/><br/><br/>
 <b>Python</b>
 </td>
 
