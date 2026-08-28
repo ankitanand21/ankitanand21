@@ -159,6 +159,10 @@ A RESTful task management backend focused on secure API design, authentication, 
 </tr>
 </table>
 
+<p align="center">
+  <b>REST APIs</b> · <b>WebSockets</b>
+</p>
+
 ---
 
 ### 🎨 Frontend
