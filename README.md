@@ -3,7 +3,14 @@
   <svg width="45" height="45" viewBox="0 0 60 60" style="vertical-align: middle;">
     <text x="30" y="45" font-size="40" text-anchor="middle">
       👋
-      <animateTransform attributeName="transform" type="rotate" values="0 30 45;25 30 45;-15 30 45;25 30 45;-15 30 45;0 30 45" dur="0.7s" repeatCount="7" fill="freeze"/>
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="0 30 45;25 30 45;-15 30 45;25 30 45;-15 30 45;0 30 45"
+        dur="0.7s"
+        repeatCount="7"
+        fill="freeze"
+      />
     </text>
   </svg>
 </h1>
@@ -11,7 +18,10 @@
 <h3 align="center">Backend Engineer · MERN Stack Developer · Full-Stack Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+and+Backend+Systems;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend-focused+MERN+Stack+Developer;Node.js+%2B+Express+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;Building+REST+APIs+and+Backend+Systems;Open+to+SDE+%2F+Backend+%2F+Full-Stack+roles"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -123,43 +133,156 @@ A RESTful task management backend focused on secure API design, authentication, 
 
 ### ⚡ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts" />
-</p>
+<table>
+<tr>
 
-**JavaScript · Node.js · Express.js · TypeScript**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="65"/><br/>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br/>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="65"/><br/>
+<b>Express.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="65"/><br/>
+<b>TypeScript</b>
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+<table>
+<tr>
 
-**React.js · HTML · CSS**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br/>
+<b>React.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="65"/><br/>
+<b>HTML</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="65"/><br/>
+<b>CSS</b>
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
+<table>
+<tr>
 
-**MongoDB · MySQL · Redis**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br/>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br/>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="65"/><br/>
+<b>Redis</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br/>
+<b>SQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=graphql" width="65"/><br/>
+<b>GraphQL</b>
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 💬 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
+<table>
+<tr>
 
-**C · C++ · Python**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="65"/><br/>
+<b>C</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br/>
+<b>C++</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br/>
+<b>Python</b>
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🛠️ Tools & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman" />
-</p>
+<table>
+<tr>
 
-**Git · GitHub · Docker · AWS · Linux · Postman**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br/>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br/>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="65"/><br/>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="65"/><br/>
+<b>AWS</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="65"/><br/>
+<b>Linux</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="65"/><br/>
+<b>Postman</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
