@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi, I'm Ankit Anand
   <svg width="45" height="45" viewBox="0 0 60 60" style="vertical-align: middle;">
@@ -136,33 +137,33 @@ A RESTful task management backend focused on secure API design, authentication, 
 <table width="100%">
 <tr>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=js" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=js" width="58" height="58"/><br/><br/>
 <b>JavaScript</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=nodejs" width="58" height="58"/><br/><br/>
 <b>Node.js</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=express" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=express" width="58" height="58"/><br/><br/>
 <b>Express.js</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=ts" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=ts" width="58" height="58"/><br/><br/>
 <b>TypeScript</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://img.icons8.com/fluency/96/api.png" width="65" height="65"/><br/><br/>
-<b>REST APIs</b>
+<td align="center" width="16.66%" valign="top">
+<img src="https://img.icons8.com/fluency/96/api.png" width="58" height="58"/><br/><br/>
+<b>REST&nbsp;APIs</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://img.icons8.com/fluency/96/network.png" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://img.icons8.com/fluency/96/network.png" width="58" height="58"/><br/><br/>
 <b>WebSockets</b>
 </td>
 
@@ -176,17 +177,17 @@ A RESTful task management backend focused on secure API design, authentication, 
 <table width="100%">
 <tr>
 
-<td align="center" width="33.33%">
+<td align="center" width="33.33%" valign="top">
 <img src="https://skillicons.dev/icons?i=react" width="65" height="65"/><br/><br/>
 <b>React.js</b>
 </td>
 
-<td align="center" width="33.33%">
+<td align="center" width="33.33%" valign="top">
 <img src="https://skillicons.dev/icons?i=html" width="65" height="65"/><br/><br/>
 <b>HTML</b>
 </td>
 
-<td align="center" width="33.33%">
+<td align="center" width="33.33%" valign="top">
 <img src="https://skillicons.dev/icons?i=css" width="65" height="65"/><br/><br/>
 <b>CSS</b>
 </td>
@@ -201,28 +202,28 @@ A RESTful task management backend focused on secure API design, authentication, 
 <table width="100%">
 <tr>
 
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65"/><br/><br/>
+<td align="center" width="20%" valign="top">
+<img src="https://skillicons.dev/icons?i=mongodb" width="58" height="58"/><br/><br/>
 <b>MongoDB</b>
 </td>
 
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65"/><br/><br/>
+<td align="center" width="20%" valign="top">
+<img src="https://skillicons.dev/icons?i=mysql" width="58" height="58"/><br/><br/>
 <b>MySQL</b>
 </td>
 
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=redis" width="65" height="65"/><br/><br/>
+<td align="center" width="20%" valign="top">
+<img src="https://skillicons.dev/icons?i=redis" width="58" height="58"/><br/><br/>
 <b>Redis</b>
 </td>
 
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65"/><br/><br/>
+<td align="center" width="20%" valign="top">
+<img src="https://skillicons.dev/icons?i=postgres" width="58" height="58"/><br/><br/>
 <b>SQL</b>
 </td>
 
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=graphql" width="65" height="65"/><br/><br/>
+<td align="center" width="20%" valign="top">
+<img src="https://skillicons.dev/icons?i=graphql" width="58" height="58"/><br/><br/>
 <b>GraphQL</b>
 </td>
 
@@ -236,17 +237,17 @@ A RESTful task management backend focused on secure API design, authentication, 
 <table width="100%">
 <tr>
 
-<td align="center" width="33.33%">
+<td align="center" width="33.33%" valign="top">
 <img src="https://skillicons.dev/icons?i=c" width="65" height="65"/><br/><br/>
 <b>C</b>
 </td>
 
-<td align="center" width="33.33%">
+<td align="center" width="33.33%" valign="top">
 <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65"/><br/><br/>
 <b>C++</b>
 </td>
 
-<td align="center" width="33.33%">
+<td align="center" width="33.33%" valign="top">
 <img src="https://skillicons.dev/icons?i=python" width="65" height="65"/><br/><br/>
 <b>Python</b>
 </td>
@@ -261,33 +262,33 @@ A RESTful task management backend focused on secure API design, authentication, 
 <table width="100%">
 <tr>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=git" width="58" height="58"/><br/><br/>
 <b>Git</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=github" width="58" height="58"/><br/><br/>
 <b>GitHub</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=docker" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=docker" width="58" height="58"/><br/><br/>
 <b>Docker</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=aws" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=aws" width="58" height="58"/><br/><br/>
 <b>AWS</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=linux" width="58" height="58"/><br/><br/>
 <b>Linux</b>
 </td>
 
-<td align="center" width="16.66%">
-<img src="https://skillicons.dev/icons?i=postman" width="65" height="65"/><br/><br/>
+<td align="center" width="16.66%" valign="top">
+<img src="https://skillicons.dev/icons?i=postman" width="58" height="58"/><br/><br/>
 <b>Postman</b>
 </td>
 
