@@ -121,13 +121,21 @@ A RESTful task management backend focused on secure API design, authentication, 
 
 # 💻 Tech Stack
 
-### 🚀 Backend
+### ⚡ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,ts" />
 </p>
 
-**Node.js · Express.js · MongoDB**
+**JavaScript · Node.js · Express.js · TypeScript**
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+**React.js · HTML · CSS**
 
 ### 🗄️ Databases
 
@@ -140,10 +148,10 @@ A RESTful task management backend focused on secure API design, authentication, 
 ### 💬 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
-**JavaScript · TypeScript · Python · Java · C++**
+**C · C++ · Python**
 
 ### 🛠️ Tools & DevOps
 
@@ -152,14 +160,6 @@ A RESTful task management backend focused on secure API design, authentication, 
 </p>
 
 **Git · GitHub · Docker · AWS · Linux · Postman**
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-**React.js · HTML · CSS**
 
 ---
 
