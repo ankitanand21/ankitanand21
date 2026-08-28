@@ -15,9 +15,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/></a>
-  <a href="https://linkedin.com/in/ankitanand21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/></a>
-  <a href="mailto:ankitanand2106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge"/></a>
+  <a href="https://github.com/ankitanand21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ankitanand21" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/>
+  </a>
+  <a href="mailto:ankitanand2106@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -121,11 +127,15 @@ A RESTful task management backend focused on secure API design, authentication, 
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
+**Node.js · Express.js · MongoDB**
+
 ### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
+
+**MongoDB · MySQL · Redis**
 
 ### 💬 Languages
 
@@ -133,11 +143,15 @@ A RESTful task management backend focused on secure API design, authentication, 
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
 </p>
 
+**JavaScript · TypeScript · Python · Java · C++**
+
 ### 🛠️ Tools & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,postman" />
 </p>
+
+**Git · GitHub · Docker · AWS · Linux · Postman**
 
 ### 🎨 Frontend
 
@@ -145,23 +159,21 @@ A RESTful task management backend focused on secure API design, authentication, 
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
+**React.js · HTML · CSS**
+
 ---
 
 # 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/ankitanand21">
-    <img src="https://img.shields.io/badge/GitHub-ankitanand21-000000?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://linkedin.com/in/ankitanand21">
-    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Anand-000000?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:ankitanand2106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ankitanand2106%40gmail.com-000000?style=for-the-badge&logo=gmail"/>
-  </a>
+  <a href="https://github.com/ankitanand21">GitHub</a>
+  ·
+  <a href="https://linkedin.com/in/ankitanand21">LinkedIn</a>
+  ·
+  <a href="mailto:ankitanand2106@gmail.com">Email</a>
 </p>
+
+---
 
 <p align="center">
   ⭐️ From <a href="https://github.com/ankitanand21">Ankit Anand</a>
